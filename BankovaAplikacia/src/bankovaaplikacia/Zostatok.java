@@ -15,7 +15,7 @@ public class Zostatok {
                 int stavUctu = ucet.getStavUctu();
         
         ZapisovacTransakcii z = new ZapisovacTransakcii();
-      z.zapisPohyb(ucet.meno, "zobrazenie stavu osobného účtu", stavUctu);
+      z.zapisPohyb(ucet.getMeno(), "zobrazenie stavu osobného účtu", stavUctu);
         
         return " Aktuálny zostatok na osobnom účte je: " + ucet.getStavUctu() + "€";
         

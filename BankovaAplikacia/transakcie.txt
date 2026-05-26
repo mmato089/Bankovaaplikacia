@@ -21,3 +21,79 @@ Matej Majerik vykonal vyber v hodnote 20 EUR.
 Matej Majerik vykonal vklad v hodnote 1000000 EUR.
 Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 250 EUR.
 Matej Majerik vykonal vklad v hodnote 25 EUR.
+Matej Majerik vykonal vyber v hodnote 20 EUR.
+Matej Majerik vykonal vyber v hodnote 50 EUR.
+Matej Majerik vykonal vyber v hodnote 50 EUR.
+Matej Majerik vykonal vyber v hodnote 25 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 225 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 250 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal vyber v hodnote 159 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 91 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 250 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal vyber v hodnote 250 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 0 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 0 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal vklad v hodnote 800 EUR.
+Matej Majerik vykonal vklad v hodnote 50 EUR.
+Matej Majerik vykonal vklad v hodnote 50 EUR.
+Matej Majerik vykonal vklad v hodnote 50 EUR.
+Matej Majerik vykonal vklad v hodnote 50 EUR.
+Matej Majerik vykonal vklad v hodnote 50 EUR.
+Matej Majerik vykonal vklad v hodnote 50 EUR.
+Matej Majerik vykonal vklad v hodnote 50 EUR.
+Matej Majerik vykonal vklad v hodnote 50 EUR.
+Matej Majerik vykonal vklad v hodnote 50 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 250 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal vklad v hodnote 250 EUR.
+Matej Majerik vykonal vyber v hodnote 250 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 250 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal vklad v hodnote 250 EUR.
+Matej Majerik vykonal vyber v hodnote 220 EUR.
+Matej Majerik vykonal vyber v hodnote 41 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 209 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal vyber v hodnote 25 EUR.
+Matej Majerik vykonal vklad v hodnote 280 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 505 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 505 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 505 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal vklad v hodnote 25 EUR.
+Matej Majerik vykonal vyber v hodnote 45 EUR.
+Jozef Mrkvicka vykonal zobrazenie stavu osobného účtu v hodnote 50000 EUR.
+Jozef Mrkvicka vykonal zobrazenie stavu sporiaceho účtu v hodnote 150000 EUR.
+Matej Majerik vykonal vklad v hodnote 25 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 275 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 275 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 275 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal vklad v hodnote 25 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 300 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Lucia Valova vykonal vklad v hodnote 85 EUR.
+Lucia Valova vykonal zobrazenie stavu osobného účtu v hodnote 2485 EUR.
+Lucia Valova vykonal zobrazenie stavu sporiaceho účtu v hodnote 5000 EUR.
+Lucia Valova vykonal vyber v hodnote 500 EUR.
+Lucia Valova vykonal zobrazenie stavu osobného účtu v hodnote 1900 EUR.
+Lucia Valova vykonal zobrazenie stavu sporiaceho účtu v hodnote 5000 EUR.
+Lucia Valova vykonal vyber v hodnote 250 EUR.
+Matej Majerik vykonal vyber v hodnote 250 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 0 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 250 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.
+Matej Majerik vykonal vklad v hodnote 250 EUR.
+Matej Majerik vykonal zobrazenie stavu osobného účtu v hodnote 500 EUR.
+Matej Majerik vykonal zobrazenie stavu sporiaceho účtu v hodnote 1500 EUR.

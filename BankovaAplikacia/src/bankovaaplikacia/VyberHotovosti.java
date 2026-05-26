@@ -20,12 +20,12 @@ public class VyberHotovosti {
       ucet.setStavUctu(aktualnyZostatok - sumaNaVyber);
       
       ZapisovacTransakcii z = new ZapisovacTransakcii();
-      z.zapisPohyb(ucet.meno, "vyber", sumaNaVyber);
+      z.zapisPohyb(ucet.getMeno(), "vyber", sumaNaVyber);
       
-      return " Výber bol úspešný, Vybrali ste:" +sumaNaVyber +"€";
+      return " Výber bol úspešný, Vybrali ste :" +sumaNaVyber +"€";
     }
       else {
-          return"Nedostatok finnačných prostriedkov na účte";
+          return"Nedostatok finančných prostriedkov na bankovom účte";
         }
     }
     }

@@ -4,36 +4,19 @@ import javax.swing.JOptionPane;
 /**
  * @author matejmajerik
  */
+
 public class VyberHotovostiPomocouKodu {
     
-    public void overUzivatela(Ucet m, Ucet j, Ucet l) {
-        
-        // vypytanie kodu cez okienko
-        int zadanyKod = Integer.parseInt(JOptionPane.showInputDialog(null, "Zadajte vygenerovaný kód:"));
-        
-        Ucet vybranyUcet = null;
-        
-  
+    public Ucet overKod(int zadanyKod, Ucet m, Ucet j, Ucet l) {
+
         if (zadanyKod == m.getPomocouKodu()) {
-            vybranyUcet = m;
+            return m;
         } else if (zadanyKod == j.getPomocouKodu()) {
-            vybranyUcet = j;
+            return j;
         } else if (zadanyKod == l.getPomocouKodu()) {
-            vybranyUcet = l;
+            return l;
         }
-      
-        if (vybranyUcet != null) {
-            JOptionPane.showMessageDialog(null, "Kód bol správny. Presmerovávam do okna s výberom...");
-            
-            // zapis transakcie do suboru
-            ZapisovacTransakcii z = new ZapisovacTransakcii();
-            z.zapisPohyb(vybranyUcet.meno, "prihlásenie kódom", zadanyKod);
-            
-            // presmerovanie do noveho menu
-            KonzoloveMenu menu = new KonzoloveMenu();
-            menu.menuIbaPreVyber(vybranyUcet);
-        } else { 
-            JOptionPane.showMessageDialog(null, "Chyba: Tento kód neexistuje!");
-        }
+
+        return null;
     }
 }

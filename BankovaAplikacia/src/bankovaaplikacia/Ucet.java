@@ -10,21 +10,18 @@ import java.util.Scanner;
  *
  * @author matejmajerik
  */
- public class Ucet {
-   
+
+
+public class Ucet {
+
     private boolean zablokovany = false;
-   
-     
-    public void setZablokovany(boolean zablokovany){
-        this.zablokovany = zablokovany;
-    }
-     
-   public int pin;
-   public String meno;
-   public int stavUctu;
-   public int sporiaciUcet;
-   public String cisloUctu;
-   public int pomocouKodu;
+
+    private int pin;
+    private String meno;
+    private int stavUctu;
+    private int sporiaciUcet;
+    private String cisloUctu;
+    private int pomocouKodu;
 
     public Ucet(int pin, String meno, int stavUctu, int sporiaciUcet, String cisloUctu, int pomocouKodu) {
         this.pin = pin;
@@ -35,13 +32,7 @@ import java.util.Scanner;
         this.pomocouKodu = pomocouKodu;
     }
 
-    public void setPomocouKodu(int pomocouKodu) {
-        this.pomocouKodu = pomocouKodu;
-    }
-
-    public int getPomocouKodu() {
-        return this.pomocouKodu;
-    }
+    // GETTERY
 
     public int getPin() {
         return pin;
@@ -63,6 +54,16 @@ import java.util.Scanner;
         return cisloUctu;
     }
 
+    public int getPomocouKodu() {
+        return pomocouKodu;
+    }
+
+    public boolean jeZablokovany() {
+        return zablokovany;
+    }
+
+    // SETTERY
+
     public void setPin(int pin) {
         this.pin = pin;
     }
@@ -83,10 +84,11 @@ import java.util.Scanner;
         this.cisloUctu = cisloUctu;
     }
 
-    public boolean jeZablokovany(){
-        return zablokovany;
+    public void setPomocouKodu(int pomocouKodu) {
+        this.pomocouKodu = pomocouKodu;
     }
-    
- }
 
-
+    public void setZablokovany(boolean zablokovany) {
+        this.zablokovany = zablokovany;
+    }
+}
